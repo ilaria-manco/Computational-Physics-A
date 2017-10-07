@@ -1,6 +1,4 @@
-Computational Physics - Project A
-Readme.txt
-I. Manco 14/11/2016
+## Computational Physics - Project A
  
 The project is composed of 5 modules: single.py, double.py, test_single.py test_double.py, animation.py:
 
